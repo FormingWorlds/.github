@@ -11,4 +11,4 @@ Coupled atmosphere-interior framework to simulate the temporal evolution of rock
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.
 
-All codes hosted publicly here are open for collaboration. If you have specific questions or suggestions, please create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), and `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
+All codes hosted publicly here are open for collaboration. If you have specific questions or suggestions, please create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
