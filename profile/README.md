@@ -5,8 +5,8 @@ Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and mult
 [**PROTEUS**](https://github.com/FormingWorlds/PROTEUS)  
 *Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
  
-[**AEOLUS**](https://github.com/FormingWorlds/AEOLUS)  
-*1-D radiative-convective model of planetary atmospheres that makes use of the SOCRATES radiative transfer code.*
+[**JANUS**](https://github.com/FormingWorlds/JANUS)  
+*1-D prescribed atmosphere model of planetary atmospheres that makes use of the SOCRATES radiative transfer code.*
  
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.*
