@@ -1,13 +1,19 @@
 # Forming Worlds Lab
 
-Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes.
+Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which the Forming Worlds Lab develops and contributes to.
 
 [**PROTEUS**](https://github.com/FormingWorlds/PROTEUS)  
 *Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
 ([Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7))
  
 [**JANUS**](https://github.com/FormingWorlds/JANUS)  
-*1-D prescribed atmosphere model of planetary atmospheres that makes use of the [SOCRATES](https://github.com/FormingWorlds/SOCRATES) radiative transfer code.*
+*1-D prescribed atmosphere model of planetary atmospheres.*
+
+[**MORS**](https://github.com/FormingWorlds/MORS)  
+*Model for the rotation and flux evolution of stars, adapted for use within [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
+[**SOCRATES**](https://github.com/FormingWorlds/SOCRATES)  
+*Atmospheric radiative transfer code, adapted for use within [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.*
