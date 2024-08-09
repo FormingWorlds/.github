@@ -1,6 +1,6 @@
 # Forming Worlds Lab
 
-Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.space), a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which we develop and contribute to. All codes are executable stand-alone.
+Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.space), a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which we develop and/or contribute to. All codes are executable stand-alone.
 
 [**PROTEUS**](https://github.com/FormingWorlds/PROTEUS)  
 *Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
@@ -17,6 +17,9 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 
 [**AGNI**](https://github.com/nichollsh/AGNI)  
 *Atmospheric radiative-convective solver, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
+[**SPIDER**](https://github.com/djbower/spider)  
+*1-D parameterised interior dynamics code for rocky planets with molten and/or solid interiors, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.*
