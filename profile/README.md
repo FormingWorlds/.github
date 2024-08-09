@@ -7,7 +7,7 @@ Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and mult
 ([Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7))
  
 [**JANUS**](https://github.com/FormingWorlds/JANUS)  
-*1-D prescribed atmosphere model of planetary atmospheres.*
+*1-D convective model of planetary atmospheres.*
 
 [**MORS**](https://github.com/FormingWorlds/MORS)  
 *Model for the rotation and flux evolution of stars, adapted for use within [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
