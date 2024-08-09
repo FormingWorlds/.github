@@ -1,6 +1,6 @@
 # Forming Worlds Lab
 
-Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which the Forming Worlds Lab develops and contributes to. All codes are executable stand-alone.
+Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.space), a cross-disciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which the Forming Worlds Lab develops and contributes to. All codes are executable stand-alone.
 
 [**PROTEUS**](https://github.com/FormingWorlds/PROTEUS)  
 *Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
