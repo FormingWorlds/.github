@@ -22,7 +22,7 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 *1-D parameterised interior dynamics code for rocky planets with molten and/or solid interiors, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
-*2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.*
+*2-D fluid mechanics and thermochemistry of the interior of planetesimals and protoplanets.*
 
 [**Erebus.jl**](https://github.com/FormingWorlds/Erebus.jl)  
 *2-D hydro-thermo-mechanical-chemical geodynamic numerical code with a focus on thermodynamic reactions in a two-phase model.*
