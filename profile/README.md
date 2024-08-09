@@ -15,6 +15,9 @@ Welcome to the code hub of the Forming Worlds Lab, a cross-disciplinary and mult
 [**SOCRATES**](https://github.com/FormingWorlds/SOCRATES)  
 *Atmospheric radiative transfer code, adapted for use within [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
+[**AGNI**](https://github.com/nichollsh/AGNI)  
+*Atmospheric radiative-convective solver designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *2-D fluid mechanics and thermochemistry of planetesimals and protoplanets.*
 
