@@ -12,7 +12,7 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**MORS**](https://github.com/FormingWorlds/MORS)  
 *Model for the rotation and flux evolution of stars, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
-[**SOCRATES**](https://github.com/FormingWorlds/SOCRATES)  
+[**SOCRATES**](https://github.com/nichollsh/SOCRATES)  
 *Atmospheric radiative transfer code, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**AGNI**](https://github.com/nichollsh/AGNI)  
