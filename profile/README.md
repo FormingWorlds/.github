@@ -18,6 +18,9 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**AGNI**](https://github.com/nichollsh/AGNI)  
 *Atmospheric radiative-convective solver, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
+[**CALLIOPE**](https://github.com/FormingWorlds/CALLIOPE)  
+*Volatile equilibrium outgassing from magma oceans, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
 [**SPIDER**](https://github.com/djbower/spider)  
 *Parameterised interior dynamics code for rocky planets with molten and/or solid interiors, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
