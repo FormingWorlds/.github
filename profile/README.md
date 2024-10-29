@@ -27,6 +27,9 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**Aragog**](https://github.com/ExPlanetology/aragog)  
 *1-D interior dynamics of solid, liquid, and mixed phase rocky mantles, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
+[**ZEPHYRUS**](https://github.com/FormingWorlds/ZEPHYRUS)  
+*Atmospheric escape on magma ocean planets, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *Fluid mechanics and thermochemistry of the interior of planetesimals and protoplanets.*
 
