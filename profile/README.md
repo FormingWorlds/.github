@@ -39,5 +39,8 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**LovePy**](https://github.com/nichollsh/LovePy)  
 *Viscoelastic solid-phase tidal heating model, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
+[**THOTH**](https://github.com/FormingWorlds/THOTH)  
+*Model to calculate and analyze the thermal emission and reflection properties of rocky exoplanet surfaces.*
+
 
 All codes hosted publicly here are open for collaboration and are under active development for the purpose of scientific research. _If you see new changes pushed to one of the repositories that are not yet linked to a journal publication and you want to make use of these, please do reach out to the authors first._ If you have any questions or suggestions, please either create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
