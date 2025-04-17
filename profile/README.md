@@ -42,5 +42,7 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**THOTH**](https://github.com/FormingWorlds/THOTH)  
 *Model to calculate and analyze the thermal emission and reflection properties of rocky exoplanet surfaces.*
 
+[**Zalmoxis**](https://github.com/FormingWorlds/Zalmoxis)  
+*Model to calculate the internal structure of exoplanets.*
 
 All codes hosted publicly here are open for collaboration and are under active development for the purpose of scientific research. _If you see new changes pushed to one of the repositories that are not yet linked to a journal publication and you want to make use of these, please do reach out to the authors first._ If you have any questions or suggestions, please either create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
