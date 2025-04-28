@@ -46,7 +46,7 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 *Model to calculate the internal structure of exoplanets.*
 
 [**VULCAN**](https://github.com/FormingWorlds/VULCAN)  
-*Photochemical kinetics model for exoplanetary atmospheres, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).**
+*Photochemical kinetics model for exoplanetary atmospheres, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 
 All codes hosted publicly here are open for collaboration and are under active development for the purpose of scientific research. _If you see new changes pushed to one of the repositories that are not yet linked to a journal publication and you want to make use of these, please do reach out to the authors first._ If you have any questions or suggestions, please either create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
