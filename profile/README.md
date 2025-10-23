@@ -24,7 +24,7 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**SPIDER**](https://github.com/djbower/spider)  
 *Parameterised interior dynamics code for rocky planets with molten and/or solid interiors, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
-[**Aragog**](https://github.com/ExPlanetology/aragog)  
+[**Aragog**](https://github.com/FormingWorlds/aragog)  
 *Interior dynamics of solid, liquid, and mixed phase rocky mantles, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**ZEPHYRUS**](https://github.com/FormingWorlds/ZEPHYRUS)  
