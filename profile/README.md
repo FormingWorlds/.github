@@ -5,9 +5,6 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**PROTEUS**](https://github.com/FormingWorlds/PROTEUS)  
 *Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
 ([Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7))
- 
-[**JANUS**](https://github.com/FormingWorlds/JANUS)  
-*Parameterised convective model of planetary atmospheres, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**MORS**](https://github.com/FormingWorlds/MORS)  
 *Model for the rotation and flux evolution of stars, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
@@ -27,17 +24,20 @@ Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.sp
 [**Aragog**](https://github.com/FormingWorlds/aragog)  
 *Interior dynamics of solid, liquid, and mixed phase rocky mantles, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
+[**Love.jl**](https://github.com/FormingWorlds/Love.jl)  
+*Poro-visco-elastic solid-liquid tidal heating model, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
 [**ZEPHYRUS**](https://github.com/FormingWorlds/ZEPHYRUS)  
 *Atmospheric escape on magma ocean planets, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
+
+[**JANUS**](https://github.com/FormingWorlds/JANUS)  
+*Parameterised convective model of planetary atmospheres, designed for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
 *Fluid mechanics and thermochemistry of the interior of planetesimals and protoplanets.*
 
 [**Erebus.jl**](https://github.com/FormingWorlds/Erebus.jl)  
 *Hydro-thermo-mechanical-chemical geodynamic numerical code with a focus on thermodynamic reactions in a two-phase model.*
-
-[**LovePy**](https://github.com/nichollsh/LovePy)  
-*Viscoelastic solid-phase tidal heating model, adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS).*
 
 [**THOTH**](https://github.com/FormingWorlds/THOTH)  
 *Model to calculate and analyze the thermal emission and reflection properties of rocky exoplanet surfaces.*
