@@ -30,7 +30,7 @@ Codes that are either designed from scratch or adapted for integration into [PRO
 [**Zalmoxis**](https://github.com/FormingWorlds/Zalmoxis)  
 *Model to calculate the internal structure of rocky planets and exoplanets.*
 
-[**Love.jl**](https://github.com/FormingWorlds/Love.jl)  
+[**Obliqua**](https://github.com/FormingWorlds/Obliqua)  
 *Poro-visco-elastic solid-liquid tidal heating model*
 
 [**ZEPHYRUS**](https://github.com/FormingWorlds/ZEPHYRUS)  
