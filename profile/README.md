@@ -21,7 +21,7 @@ Codes that are either designed from scratch or adapted for integration into [PRO
 [**CALLIOPE**](https://github.com/FormingWorlds/CALLIOPE)  
 *Volatile equilibrium outgassing from magma oceans.*
 
-[**SPIDER**](https://github.com/djbower/spider)  
+[**SPIDER**](https://github.com/FormingWorlds/SPIDER)  
 *Parameterised interior dynamics code for rocky planets with molten and/or solid interiors.*
 
 [**Aragog**](https://github.com/FormingWorlds/aragog)  
