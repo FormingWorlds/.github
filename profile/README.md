@@ -15,7 +15,7 @@ Codes that are either designed from scratch or adapted for integration into [PRO
 [**MORS**](https://github.com/FormingWorlds/MORS)  
 *Model for the rotation and flux evolution of stars.*
 
-[**SOCRATES**](https://github.com/nichollsh/SOCRATES)  
+[**SOCRATES**](https://github.com/FormingWorlds/SOCRATES)  
 *Atmospheric radiative transfer code.*
 
 [**CALLIOPE**](https://github.com/FormingWorlds/CALLIOPE)  
