@@ -1,57 +1,46 @@
 # Forming Worlds Lab
 
-Welcome to the code hub of the [Forming Worlds Lab](https://www.formingworlds.space), an interdisciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. This platform hosts a number of open source planetary simulation codes, which we develop and/or substantially contribute to. 
-  
-All codes listed below are executable stand-alone, are open for collaboration and are under active development for the purpose of scientific research. _If you see new changes pushed to one of the repositories that are not yet linked to a journal publication and you want to make use of these, please do reach out to the authors first._ If you have any questions or suggestions, please either create a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` in the respective repository, or reach out via email to contact@formingworlds.space.
+Code hub of the [Forming Worlds Lab](https://www.formingworlds.space), an interdisciplinary and multi-national team of researchers investigating the formation and evolution of rocky exoplanets and terrestrial worlds of the Solar System. All codes here are open source, under active research development, and executable stand-alone.
 
-[**PROTEUS**](https://github.com/FormingWorlds/PROTEUS) ([Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7))  
-*Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets.*
+> [!NOTE]
+> If you see changes pushed to one of the repositories that are not yet linked to a journal publication and you want to make use of them, please contact the authors first.
 
-Codes that are either designed from scratch or adapted for integration into [PROTEUS](https://github.com/FormingWorlds/PROTEUS):
+**Questions or suggestions?** Open a [Discussion](https://github.com/orgs/FormingWorlds/discussions), an `Issue` on the relevant repository, or email contact@formingworlds.space.
 
-[**AGNI**](https://github.com/nichollsh/AGNI)  
-*Atmospheric radiative-convective solver.*
+## PROTEUS, coupled framework
 
-[**MORS**](https://github.com/FormingWorlds/MORS)  
-*Model for the rotation and flux evolution of stars.*
+[**PROTEUS**](https://github.com/FormingWorlds/PROTEUS) · [Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7)
 
-[**SOCRATES**](https://github.com/FormingWorlds/SOCRATES)  
-*Atmospheric radiative transfer code.*
+Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets. The modules below plug into PROTEUS and also run stand-alone.
 
-[**CALLIOPE**](https://github.com/FormingWorlds/CALLIOPE)  
-*Volatile equilibrium outgassing from magma oceans.*
+### Atmosphere
+| Code | Purpose |
+|---|---|
+| [AGNI](https://github.com/nichollsh/AGNI) | Atmospheric radiative-convective solver |
+| [JANUS](https://github.com/FormingWorlds/JANUS) | Parameterised convective model of planetary atmospheres |
+| [SOCRATES](https://github.com/FormingWorlds/SOCRATES) | Atmospheric radiative transfer code |
+| [VULCAN](https://github.com/FormingWorlds/VULCAN) | Photochemical kinetics model for exoplanetary atmospheres |
 
-[**SPIDER**](https://github.com/FormingWorlds/SPIDER)  
-*Parameterised interior dynamics code for rocky planets with molten and/or solid interiors.*
+### Interior
+| Code | Purpose |
+|---|---|
+| [SPIDER](https://github.com/FormingWorlds/SPIDER) | Parameterised interior dynamics for rocky planets with molten and/or solid interiors |
+| [Aragog](https://github.com/FormingWorlds/aragog) | Interior dynamics of solid, liquid, and mixed phase rocky mantles |
+| [Zalmoxis](https://github.com/FormingWorlds/Zalmoxis) | Internal structure of rocky planets and exoplanets |
+| [PALEOS](https://github.com/maraattia/PALEOS) | Equation-of-state tables for Fe, MgSiO₃, H₂O |
 
-[**Aragog**](https://github.com/FormingWorlds/aragog)  
-*Interior dynamics of solid, liquid, and mixed phase rocky mantles.*
+### Volatiles, escape, stellar, tidal
+| Code | Purpose |
+|---|---|
+| [CALLIOPE](https://github.com/FormingWorlds/CALLIOPE) | Volatile equilibrium outgassing from magma oceans |
+| [ZEPHYRUS](https://github.com/FormingWorlds/ZEPHYRUS) | Atmospheric escape on magma ocean planets |
+| [MORS](https://github.com/FormingWorlds/MORS) | Rotation and flux evolution of stars |
+| [Obliqua](https://github.com/FormingWorlds/Obliqua) | Poro-visco-elastic solid-liquid tidal heating model |
 
-[**Zalmoxis**](https://github.com/FormingWorlds/Zalmoxis)  
-*Model to calculate the internal structure of rocky planets and exoplanets.*
+## Related planetary modelling
 
-[**Obliqua**](https://github.com/FormingWorlds/Obliqua)  
-*Poro-visco-elastic solid-liquid tidal heating model*
-
-[**ZEPHYRUS**](https://github.com/FormingWorlds/ZEPHYRUS)  
-*Atmospheric escape on magma ocean planets.*
-
-[**JANUS**](https://github.com/FormingWorlds/JANUS)  
-*Parameterised convective model of planetary atmospheres.*
-
-[**VULCAN**](https://github.com/FormingWorlds/VULCAN)  
-*Photochemical kinetics model for exoplanetary atmospheres.*
-
-Codes related to other planetary modeling projects:
-
-[**i2elvis_planet**](https://github.com/FormingWorlds/i2elvis_planet)  
-*Fluid mechanics and thermochemistry of the interior of planetesimals and protoplanets.*
-
-[**Erebus.jl**](https://github.com/FormingWorlds/Erebus.jl)  
-*Hydro-thermo-mechanical-chemical geodynamic numerical code with a focus on thermodynamic reactions in a two-phase model.*
-
-[**THOTH**](https://github.com/FormingWorlds/THOTH)  
-*Model to calculate and analyze the thermal emission and reflection properties of rocky exoplanet surfaces.*
-
-
-
+| Code | Purpose |
+|---|---|
+| [i2elvis_planet](https://github.com/FormingWorlds/i2elvis_planet) | Fluid mechanics and thermochemistry of planetesimal and protoplanet interiors |
+| [Erebus.jl](https://github.com/FormingWorlds/Erebus.jl) | Hydro-thermo-mechanical-chemical geodynamic code with two-phase thermodynamic reactions |
+| [THOTH](https://github.com/FormingWorlds/THOTH) | Thermal emission and reflection properties of rocky exoplanet surfaces |
