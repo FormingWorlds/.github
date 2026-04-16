@@ -9,38 +9,39 @@ Code hub of the [Forming Worlds Lab](https://www.formingworlds.space), an interd
 
 ## PROTEUS, coupled framework
 
-[**PROTEUS**](https://github.com/FormingWorlds/PROTEUS) · [Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7)
+[**PROTEUS**](https://github.com/FormingWorlds/PROTEUS) · [Documentation](https://proteus-framework.org) · [Development Roadmap](https://github.com/orgs/FormingWorlds/projects/7)
 
 Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets. The modules below plug into PROTEUS and also run stand-alone.
 
 ### Atmosphere
-| Code | Purpose |
-|---|---|
-| [AGNI](https://github.com/nichollsh/AGNI) | Atmospheric radiative-convective solver |
-| [JANUS](https://github.com/FormingWorlds/JANUS) | Parameterised convective model of planetary atmospheres |
-| [SOCRATES](https://github.com/FormingWorlds/SOCRATES) | Atmospheric radiative transfer code |
-| [VULCAN](https://github.com/FormingWorlds/VULCAN) | Photochemical kinetics model for exoplanetary atmospheres |
+| Code | Purpose | Docs |
+|---|---|---|
+| [AGNI](https://github.com/nichollsh/AGNI) | Atmospheric radiative-convective solver | [link](http://www.h-nicholls.space/AGNI/) |
+| [JANUS](https://github.com/FormingWorlds/JANUS) | Parameterised convective model of planetary atmospheres | [link](https://proteus-framework.org/JANUS) |
+| [SOCRATES](https://github.com/FormingWorlds/SOCRATES) | Atmospheric radiative transfer code | [link](https://proteus-framework.org/SOCRATES/) |
+| [VULCAN](https://github.com/FormingWorlds/VULCAN) | Photochemical kinetics model for exoplanetary atmospheres | [link](https://proteus-framework.org/VULCAN/) |
 
 ### Interior
-| Code | Purpose |
-|---|---|
-| [SPIDER](https://github.com/FormingWorlds/SPIDER) | Parameterised interior dynamics for rocky planets with molten and/or solid interiors |
-| [Aragog](https://github.com/FormingWorlds/aragog) | Interior dynamics of solid, liquid, and mixed phase rocky mantles |
-| [Zalmoxis](https://github.com/FormingWorlds/Zalmoxis) | Internal structure of rocky planets and exoplanets |
-| [PALEOS](https://github.com/maraattia/PALEOS) | Equation-of-state tables for Fe, MgSiO₃, H₂O |
+| Code | Purpose | Docs |
+|---|---|---|
+| [SPIDER](https://github.com/FormingWorlds/SPIDER) | Parameterised interior dynamics for rocky planets with molten and/or solid interiors | [link](https://proteus-framework.org/SPIDER/) |
+| [Aragog](https://github.com/FormingWorlds/aragog) | Interior dynamics of solid, liquid, and mixed phase rocky mantles | [link](https://proteus-framework.org/aragog/) |
+| [Zalmoxis](https://github.com/FormingWorlds/Zalmoxis) | Internal structure of rocky planets and exoplanets | [link](https://proteus-framework.org/Zalmoxis) |
+| [PALEOS](https://github.com/maraattia/PALEOS) | Equation-of-state tables for Fe, MgSiO₃, H₂O | — |
 
 ### Volatiles, escape, stellar, tidal
-| Code | Purpose |
-|---|---|
-| [CALLIOPE](https://github.com/FormingWorlds/CALLIOPE) | Volatile equilibrium outgassing from magma oceans |
-| [ZEPHYRUS](https://github.com/FormingWorlds/ZEPHYRUS) | Atmospheric escape on magma ocean planets |
-| [MORS](https://github.com/FormingWorlds/MORS) | Rotation and flux evolution of stars |
-| [Obliqua](https://github.com/FormingWorlds/Obliqua) | Poro-visco-elastic solid-liquid tidal heating model |
+| Code | Purpose | Docs |
+|---|---|---|
+| [CALLIOPE](https://github.com/FormingWorlds/CALLIOPE) | Volatile equilibrium outgassing from magma oceans | [link](https://proteus-framework.org/CALLIOPE/) |
+| [atmodeller](https://github.com/FormingWorlds/atmodeller) | Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation | [link](https://proteus-framework.org/atmodeller/) |
+| [ZEPHYRUS](https://github.com/FormingWorlds/ZEPHYRUS) | Atmospheric escape on magma ocean planets | [link](https://proteus-framework.org/ZEPHYRUS/) |
+| [MORS](https://github.com/FormingWorlds/MORS) | Rotation and flux evolution of stars | [link](https://proteus-framework.org/MORS) |
+| [Obliqua](https://github.com/FormingWorlds/Obliqua) | Poro-visco-elastic solid-liquid tidal heating model | [link](https://proteus-framework.org/Obliqua) |
 
 ## Related planetary modelling
 
-| Code | Purpose |
-|---|---|
-| [i2elvis_planet](https://github.com/FormingWorlds/i2elvis_planet) | Fluid mechanics and thermochemistry of planetesimal and protoplanet interiors |
-| [Erebus.jl](https://github.com/FormingWorlds/Erebus.jl) | Hydro-thermo-mechanical-chemical geodynamic code with two-phase thermodynamic reactions |
-| [THOTH](https://github.com/FormingWorlds/THOTH) | Thermal emission and reflection properties of rocky exoplanet surfaces |
+| Code | Purpose | Docs |
+|---|---|---|
+| [i2elvis_planet](https://github.com/FormingWorlds/i2elvis_planet) | Fluid mechanics and thermochemistry of planetesimal and protoplanet interiors | — |
+| [Erebus.jl](https://github.com/FormingWorlds/Erebus.jl) | Hydro-thermo-mechanical-chemical geodynamic code with two-phase thermodynamic reactions | [link](https://proteus-framework.org/Erebus.jl/) |
+| [THOTH](https://github.com/FormingWorlds/THOTH) | Thermal emission and reflection properties of rocky exoplanet surfaces | — |
