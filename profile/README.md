@@ -14,7 +14,7 @@ Code hub of the [Forming Worlds Lab](https://www.formingworlds.space), an interd
 Coupled atmosphere-interior framework to simulate the temporal evolution of rocky planets. The modules below plug into PROTEUS and also run stand-alone.
 
 ### Atmosphere
-| Code | Purpose | Docs |
+| Code | Purpose <img width="1200" height="0"> | Docs |
 |---|---|---|
 | [AGNI](https://github.com/nichollsh/AGNI) | Atmospheric radiative-convective solver | [link](http://www.h-nicholls.space/AGNI/) |
 | [JANUS](https://github.com/FormingWorlds/JANUS) | Parameterised convective model of planetary atmospheres | [link](https://proteus-framework.org/JANUS) |
@@ -22,7 +22,7 @@ Coupled atmosphere-interior framework to simulate the temporal evolution of rock
 | [VULCAN](https://github.com/FormingWorlds/VULCAN) | Photochemical kinetics model for exoplanetary atmospheres | [link](https://proteus-framework.org/VULCAN/) |
 
 ### Interior
-| Code | Purpose | Docs |
+| Code | Purpose <img width="1200" height="0"> | Docs |
 |---|---|---|
 | [SPIDER](https://github.com/FormingWorlds/SPIDER) | Parameterised interior dynamics for rocky planets with molten and/or solid interiors | [link](https://proteus-framework.org/SPIDER/) |
 | [Aragog](https://github.com/FormingWorlds/aragog) | Interior dynamics of solid, liquid, and mixed phase rocky mantles | [link](https://proteus-framework.org/aragog/) |
@@ -30,7 +30,7 @@ Coupled atmosphere-interior framework to simulate the temporal evolution of rock
 | [PALEOS](https://github.com/maraattia/PALEOS) | Equation-of-state tables for Fe, MgSiO₃, H₂O | — |
 
 ### Volatiles, escape, stellar, tidal
-| Code | Purpose | Docs |
+| Code | Purpose <img width="1200" height="0"> | Docs |
 |---|---|---|
 | [CALLIOPE](https://github.com/FormingWorlds/CALLIOPE) | Volatile equilibrium outgassing from magma oceans | [link](https://proteus-framework.org/CALLIOPE/) |
 | [atmodeller](https://github.com/FormingWorlds/atmodeller) | Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation | [link](https://proteus-framework.org/atmodeller/) |
@@ -40,7 +40,7 @@ Coupled atmosphere-interior framework to simulate the temporal evolution of rock
 
 ## Related planetary modelling
 
-| Code | Purpose | Docs |
+| Code | Purpose <img width="1200" height="0"> | Docs |
 |---|---|---|
 | [i2elvis_planet](https://github.com/FormingWorlds/i2elvis_planet) | Fluid mechanics and thermochemistry of planetesimal and protoplanet interiors | — |
 | [Erebus.jl](https://github.com/FormingWorlds/Erebus.jl) | Hydro-thermo-mechanical-chemical geodynamic code with two-phase thermodynamic reactions | [link](https://proteus-framework.org/Erebus.jl/) |
